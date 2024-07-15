@@ -38,11 +38,8 @@ PHP!
 Since then, I've worked at a few other places. I've moved from PHP to Ruby, and
 then from Ruby to Go -- my current favorite language.
 
-## What I'm Working On
-
 At the moment most of my time is taken up by work and baby, so I don't have much
-spare time.
-
-However, if you want to read about some of the stuff I've done for previous
-places I've worked, my [LinkedIn](https://www.linkedin.com/in/seanpatrickhagen/)
-page is a good place to read about the stuff I've done for other companies.
+spare time to work on personal projects. However, if you want to read about some
+of the stuff I've done for previous places I've worked, my
+[LinkedIn](https://www.linkedin.com/in/seanpatrickhagen/) page is a good place
+to read about the stuff I've done for other companies.
